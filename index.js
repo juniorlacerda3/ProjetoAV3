@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get("/", function (req, res) {
-    res.send("<h1>Bem vindo(a) ao Global Viagens, para sua comodidade faça a emissão de seu bilhete aqui!</h1>")
+    res.send("<h1>Bem vindo(a) ao Global Viagens JLR, para sua comodidade faça a emissão de seu bilhete aqui!</h1>")
 })
 
 
